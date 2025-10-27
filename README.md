@@ -6,7 +6,7 @@
 5. edge  
 6. HEU_KMS_Activator_v42.0.0  office与window激活
 7. jdk8     Java
-8. notepad++6.7.4    笔记本编辑器
+8. [notepad++6.7.4](https://github.com/DawnFlowers/software/tree/main/Notepad%2B%2B)    笔记本编辑器
 9. navicat15          数据库管理工具
 10. ventoy系统盘制作   重装电脑系统神器，请看使用详情
 11. PotPlayer 视频播放器
